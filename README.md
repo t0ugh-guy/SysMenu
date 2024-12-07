@@ -2,13 +2,14 @@
 
 SysMenu is a Plasma Desktop widget designed to provide quick access to some of the basic system controls. 
 
-**Note:** This widget was made with plasma 6 in mind, it may or may not work as intended on older plasma versions.
+**Note: This widget was made with plasma 6 in mind, it may or may not work as intended on older plasma versions.**
+
 ---
 
 ## 📋 Features
 
- - Quick actions: **System Info**, **System Settings**, **Sleep**, **Reboot**, **Shutdown**.
- - **Timer Options**: Set timers for Sleep, Restart, and Shutdown actions.
+- Quick actions: **System Info**, **System Settings**, **Sleep**, **Reboot**, **Shutdown**.
+- **Timer Options**: Set timers for Sleep, Restart, and Shutdown actions.
 - **User Greeting**: Displays a personalized "Hi, *Username*" message at the top of the widget.(**This feature is currently under developement**)
 -  Automatically adjusts for panel or desktop placement.
 
