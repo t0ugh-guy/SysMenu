@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.plasma.sysmenu",
+        "Authors": [
+            {
+                "Email": "gurshaantiwana6@gmail.com",
+                "Name": "Gurshaan Tiwana"
+            }
+        ],
+        "Category": "utilities",
+        "Description": "A simple menu that looks nice to do some basic tasks",
+        "Icon": "plasma-symbolic",
+        "Lisence":"null",
+        "Name": "SysMenu",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
