@@ -16,7 +16,7 @@ SysMenu is a Plasma Desktop widget designed to provide quick access to some of t
 
 ## 🖥️ Screenshots
 
-
+![SysMenu](images/screenshot01.png)
 
 ---
 
