@@ -2,6 +2,7 @@
 
 SysMenu is a Plasma Desktop widget designed to provide quick access to some of the basic system controls. 
 
+**Note:** This widget was made with plasma 6 in mind, it may or may not work as intended on older plasma versions.
 ---
 
 ## 📋 Features
