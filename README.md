@@ -17,9 +17,10 @@ SysMenu is a Plasma Desktop widget designed to provide quick access to some of t
 ---
 
 ## 🖥️ Screenshots
-
-![SysMenu](images/screenshot01.png)
-
+<div align="center">
+<img src = "images/screenshot01.png" alt=default_view width = "38%">
+<img src = "images/screenshot02.png" alt=timer_view width = "38.7%">
+</div>
 ---
 
 ## 🚀 Installation
@@ -39,3 +40,6 @@ Contributions are welcome! If you encounter issues or have feature requests, fee
 
 ---
 
+## 🌟 Support the Project
+
+If you find SysMenu useful, please consider giving the repository a ⭐ on GitHub and sharing it with others!
